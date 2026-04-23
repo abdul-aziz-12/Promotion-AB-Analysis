@@ -46,68 +46,63 @@ Unified Prediction Tool (input any store → get predictions from all 4 models)
 ```
 
 ---
-
-## 📸 Visual Outputs
-
-> **Save and upload each of the following screenshots from your notebook into a folder called `/images` in this repo. File names are listed below each placeholder.**
 ## 📸 Visual Outputs
 
 ---
 
-### Sales Distribution
+### Sales Distribution (Histogram)
 <p align="center">
-  <img src="images/01_sales_distribution.png" width="650"/>
+  <img src="images/sales_hist.png" width="650"/>
 </p>
 
 ---
 
-### Sales by Promotion
+### Histograms (Distributions)
 <p align="center">
-  <img src="images/02_sales_by_promotion.png" width="650"/>
+  <img src="images/histograms.png" width="650"/>
 </p>
 
 ---
 
-### Sales by Market Size
+### Standard Deviation vs CV
 <p align="center">
-  <img src="images/03_sales_by_marketsize.png" width="650"/>
+  <img src="images/std_cv.png" width="650"/>
 </p>
 
 ---
 
-### Weekly Sales Trend by Promotion
+### Boxplot — Promotion
 <p align="center">
-  <img src="images/04_weekly_trend.png" width="650"/>
+  <img src="images/box_promo.png" width="650"/>
 </p>
 
 ---
 
-### Heatmap — Market Size vs Promotion
+### Boxplot — Market Size
 <p align="center">
-  <img src="images/05_heatmap.png" width="650"/>
+  <img src="images/box_market.png" width="650"/>
 </p>
 
 ---
 
-### OLS Marginal Effects
+### Weekly Sales Trend
 <p align="center">
-  <img src="images/06_ols_marginal_effects.png" width="650"/>
+  <img src="images/weekly_trend.png" width="650"/>
 </p>
 
 ---
 
-### Random Forest Feature Importance
+### Scatter Plot (Age vs Sales)
 <p align="center">
-  <img src="images/07_rf_importance.png" width="650"/>
+  <img src="images/scatter.png" width="650"/>
 </p>
 
 ---
 
-### Logit Confusion Matrix
+### Heatmap (Market Size vs Promotion)
 <p align="center">
-  <img src="images/08_logit_cm.png" width="500"/>
+  <img src="images/heatmap.png" width="650"/>
 </p>
----
 
 ## 📊 Key Results
 
