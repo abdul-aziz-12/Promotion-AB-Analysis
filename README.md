@@ -50,79 +50,63 @@ Unified Prediction Tool (input any store → get predictions from all 4 models)
 ## 📸 Visual Outputs
 
 > **Save and upload each of the following screenshots from your notebook into a folder called `/images` in this repo. File names are listed below each placeholder.**
+## 📸 Visual Outputs
 
 ---
 
-### 1. Sales Distribution
-> *Histogram of SalesInThousands with mean line*  
-> 📌 **File:** `images/01_sales_distribution.png`
+### Sales Distribution
+<p align="center">
+  <img src="images/01_sales_distribution.png" width="650"/>
+</p>
 
 ---
 
-### 2. Sales by Promotion (Boxplot)
-> *Boxplot comparing Sales across Promotion 1, 2, 3*  
-> 📌 **File:** `images/02_sales_by_promotion.png`
+### Sales by Promotion
+<p align="center">
+  <img src="images/02_sales_by_promotion.png" width="650"/>
+</p>
 
 ---
 
-### 3. Sales by Market Size (Boxplot)
-> *Boxplot comparing Sales across Small, Medium, Large markets*  
-> 📌 **File:** `images/03_sales_by_marketsize.png`
+### Sales by Market Size
+<p align="center">
+  <img src="images/03_sales_by_marketsize.png" width="650"/>
+</p>
 
 ---
 
-### 4. Weekly Sales Trend by Promotion
-> *Line chart showing sales trend across 4 weeks for each promotion*  
-> 📌 **File:** `images/04_weekly_trend.png`
+### Weekly Sales Trend by Promotion
+<p align="center">
+  <img src="images/04_weekly_trend.png" width="650"/>
+</p>
 
 ---
 
-### 5. Heatmap — Market Size vs Promotion
-> *Average Sales grid: rows = MarketSize, columns = Promotion*  
-> 📌 **File:** `images/05_heatmap_marketsize_promotion.png`
+### Heatmap — Market Size vs Promotion
+<p align="center">
+  <img src="images/05_heatmap.png" width="650"/>
+</p>
 
 ---
 
-### 6. OLS Marginal Effects Plot
-> *Horizontal bar chart with 95% CI — Blue = positive, Red = negative*  
-> 📌 **File:** `images/06_ols_marginal_effects.png`
+### OLS Marginal Effects
+<p align="center">
+  <img src="images/06_ols_marginal_effects.png" width="650"/>
+</p>
 
 ---
 
-### 7. Random Forest Feature Importances
-> *Horizontal bar chart with importance scores labelled*  
-> 📌 **File:** `images/07_rf_feature_importances.png`
+### Random Forest Feature Importance
+<p align="center">
+  <img src="images/07_rf_importance.png" width="650"/>
+</p>
 
 ---
 
-### 8. Logit Marginal Effects Plot
-> *Horizontal bar chart — change in P(HighSales) per variable*  
-> 📌 **File:** `images/08_logit_marginal_effects.png`
-
----
-
-### 9. Logit Odds Ratios Plot
-> *Horizontal bar chart — Green = increases odds, Red = decreases odds*  
-> 📌 **File:** `images/09_logit_odds_ratios.png`
-
----
-
-### 10. Probit Marginal Effects Plot
-> *Horizontal bar chart — same format as Logit for direct comparison*  
-> 📌 **File:** `images/10_probit_marginal_effects.png`
-
----
-
-### 11. Confusion Matrix — Logit
-> *2x2 heatmap (Blues)*  
-> 📌 **File:** `images/11_confusion_matrix_logit.png`
-
----
-
-### 12. Confusion Matrix — Probit
-> *2x2 heatmap (Purples)*  
-> 📌 **File:** `images/12_confusion_matrix_probit.png`
-
+### Logit Confusion Matrix
+<p align="center">
+  <img src="images/08_logit_cm.png" width="500"/>
+</p>
 ---
 
 ## 📊 Key Results
